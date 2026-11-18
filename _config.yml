@@ -29,7 +29,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  url                      : "https://kw128-svg.github.io" # the base hostname & protocol for your site
+  baseurl                  : "" # the subpath of your site, e.g. "/blog"
   email            : "none@example.org" 
 
   # Academic websites
