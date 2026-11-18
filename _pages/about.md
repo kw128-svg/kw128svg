@@ -12,7 +12,7 @@ I am an undergraduate student in the **Yan Jici Talent Program in Physics** at t
 My research interests lie in **Atomic, Molecular, and Optical (AMO) Physics**, **Quantum Simulation**, and **Precision Measurement**, with hands-on experience in trapped-ion quantum systems, atomic magnetometry, laser frequency/power stabilization, and FPGA-based experimental control.
 
 ### Research Highlights
-* **Trapped-Ion Quantum Simulation (Rice University):** Developing mid-circuit electron-shelving readout, PDH-stabilized laser systems (1064 nm, 1542 nm, and 3.4 $\mu$m), and FPGA-based high-speed EMCCD acquisition for $^{171}\mathrm{Yb}^{+}$ ion chains.
+* **Trapped-Ion Quantum Simulation (Rice University):** Developing mid-circuit electron-shelving readout, PDH-stabilized laser systems (1064 nm, 1542 nm, and 3.4 um), and FPGA-based high-speed EMCCD acquisition for 171 Yb+ ion chains.
 * **Atomic Magnetometry & Precision Measurement (USTC):** Designed compact high-uniformity biplanar magnetic coils via Sturm–Liouville basis functions and Ising/PSO optimization; investigated spatial systematic effects in a Xe–Rb comagnetometer for probing monopole–dipole interactions.
 
 ### News
