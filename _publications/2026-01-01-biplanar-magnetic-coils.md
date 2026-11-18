@@ -6,6 +6,7 @@ permalink: /publication/2026-01-01-biplanar-magnetic-coils
 excerpt: 'Compact biplanar magnetic coils designed via a Sturm–Liouville stream-function basis framework, Ising-model quantization, and particle-swarm optimization to eliminate ill-conditioned target-field solutions in atom-based magnetometry.'
 date: 2026-01-01
 venue: 'Manuscript in preparation'
+paperurl: 'https://kw128-svg.github.io/files/biplanar_coils_manuscript.pdf'
 citation: '<strong>Kunyao Wang</strong>, et al. (2026). &quot;High-Uniformity Biplanar Magnetic Coils for Atom-Based Magnetometry.&quot; <i>Manuscript in preparation</i>.'
 ---
 
